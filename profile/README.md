@@ -1,6 +1,6 @@
 # ✨ 맛도리(액트)에 오신 것을 환영합니다 ✨
 
-<img src='https://media.discordapp.net/attachments/1195013861758205982/1225066686277746769/-_2024_4_3_21.18.jpg?ex=661fc742&is=660d5242&hm=a197ed8873de0c0dc8be48b46e29e373a8401da3a96540ef57f8c6a9011dc40c&=&format=webp&width=1106&height=1106' style="width: 300px; height: auto">
+<img width="300" alt="스크린샷 2024-04-25 오전 12 38 39" src="https://github.com/MDR-eact/.github/assets/81316050/a1b14059-60f6-41f2-8460-47f9feedc250">
 
 ### <span style="color: gray; font-style: italic">~~ㅇ1ㄱㅓ 한번만 맛 보rㅂr..🤤~~</span>
 <span style="color: gray">멘트 출처: 야생의 시라소니 <a href="https://github.com/coddingyun">@coddingyun</a></span>
